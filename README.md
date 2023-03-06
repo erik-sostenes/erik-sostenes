@@ -29,9 +29,9 @@
 [![MySQL Version](https://img.shields.io/badge/MySQL-v8.0.25-blue.svg)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-used-green.svg)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/redis-used-red.svg)](https://redis.io/)
-[![Built Git]<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">](https://git-scm.com/)
+[![Git Version](https://img.shields.io/badge/Git-v2.33.0-blue.svg)](https://git-scm.com/)
+
 
 ## ¿¿Cómo encontrarme??
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/erik-sostenes-simon)
-[![Email Contact](https://img.shields.io/badge/Email-Contact%20Us-red)](eriksostenessimon@gmail.com)
 
