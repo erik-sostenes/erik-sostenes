@@ -32,6 +32,6 @@
 [![Git Version](https://img.shields.io/badge/Git-v2.33.0-blue.svg)](https://git-scm.com/)
 
 
-## ¿¿Cómo encontrarme??
+## ¿Cómo encontrarme?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/erik-sostenes-simon)
 
