@@ -14,8 +14,6 @@
  Conocimientos en el uso de gestores de base de datos relacionales (MySQL) y no relacionales
  (Redis y MongoDB).**
  
----
-
 ## Habilidades Blandas
 <ul>
   <li>Creativo e innovador</li>
@@ -25,23 +23,15 @@
   <li>Trabajo en equipo</li>
 </ul>
 
----
----
-
 ## Lenguajes
 [![Built with Go](https://img.shields.io/badge/Built%20with-Go-1f425f.svg)](https://golang.org/)
 [![Java Version](https://img.shields.io/badge/Java-%3E%3D%208-orange)](https://www.java.com/)
-[![Built with MySQL]<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">](https://www.mysql.com/)
-[![MongoDB]<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">](https://www.mongodb.com/)
+[![MySQL Version](https://img.shields.io/badge/MySQL-v8.0.25-blue.svg)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-used-green.svg)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/redis-used-red.svg)](https://redis.io/)
 [![Built Git]<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">](https://git-scm.com/)
 
----
----
-
 ## ¿¿Cómo encontrarme??
-
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/erik-sostenes-simon)
 [![Email Contact](https://img.shields.io/badge/Email-Contact%20Us-red)](eriksostenessimon@gmail.com)
 
----
