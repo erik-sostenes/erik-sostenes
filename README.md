@@ -35,3 +35,4 @@
 ## ¿Cómo encontrarme?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/erik-sostenes-simon)
 
+[Sobre mí](https://erik-sostenes.github.io)
