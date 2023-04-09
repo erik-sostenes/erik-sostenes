@@ -24,8 +24,10 @@
 </ul>
 
 ## Tecnologías:
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_icon_130626.png" width="30">
-<p style="background-color: #00ADD8; display: inline-block; padding: 4px 8px; border-radius: 4px;">Go</p>
+<p align="left">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_icon_130626.png" alt="go" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white&link=https://golang.org/" alt="go" />
+</p>
 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_java_icon_130 cupones gratis642.png" width="30">
 <p style="background-color: #007396; display: inline-block; padding: 4px 8px; border-radius: 4px;">Java</p>
