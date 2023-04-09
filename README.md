@@ -23,14 +23,20 @@
   <li>Trabajo en equipo</li>
 </ul>
 
-## Lenguajes
-[![Built with Go](https://img.shields.io/badge/Built%20with-Go-1f425f.svg)](https://golang.org/)
-[![Java Version](https://img.shields.io/badge/Java-%3E%3D%208-orange)](https://www.java.com/)
-[![MySQL Version](https://img.shields.io/badge/MySQL-v8.0.25-blue.svg)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-used-green.svg)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/redis-used-red.svg)](https://redis.io/)
-[![Git Version](https://img.shields.io/badge/Git-v2.33.0-blue.svg)](https://git-scm.com/)
+## Tecnologías:
+Go
 
+Java
+
+</br>
+MySQL
+
+MongoDB
+
+Redis
+
+</br>
+Git
 
 ## ¿Cómo encontrarme?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/erik-sostenes-simon)
