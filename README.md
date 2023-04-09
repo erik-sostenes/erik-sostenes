@@ -24,19 +24,25 @@
 </ul>
 
 ## Tecnologías:
-Go
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_icon_130626.png" width="30">
+<p style="background-color: #00ADD8; display: inline-block; padding: 4px 8px; border-radius: 4px;">Go</p>
 
-Java
-
-</br>
-MySQL
-
-MongoDB
-
-Redis
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_java_icon_130 cupones gratis642.png" width="30">
+<p style="background-color: #007396; display: inline-block; padding: 4px 8px; border-radius: 4px;">Java</p>
 
 </br>
-Git
+<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="30">
+<p style="background-color: #4479A1; display: inline-block; padding: 4px 8px; border-radius: 4px;">MySQL</p>
+
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" width="30">
+<p style="background-color: #47A248; display: inline-block; padding: 4px 8px; border-radius: 4px;">MongoDB</p>
+
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/redis_logo_icon_170911.png" width="30">
+<p style="background-color: #DC382D; display: inline-block; padding: 4px 8px; border-radius: 4px;">Redis</p>
+
+</br>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="30">
+<p style="background-color: #F05032; display: inline-block; padding: 4px 8px; border-radius: 4px;">Git</p>
 
 ## ¿Cómo encontrarme?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/erik-sostenes-simon)
