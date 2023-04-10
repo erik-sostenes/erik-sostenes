@@ -24,29 +24,37 @@
 </ul>
 
 ## Tecnologías:
-<p align="left">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_icon_130626.png" alt="go" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white&link=https://golang.org/" alt="go" />
-</p>
+<a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&amp;logo=java&amp;logoColor=white&amp;labelColor=101010" alt="JAVA" >
+</a>
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_java_icon_130 cupones gratis642.png" width="30">
-<p style="background-color: #007396; display: inline-block; padding: 4px 8px; border-radius: 4px;">Java</p>
-
-</br>
-<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="30">
-<p style="background-color: #4479A1; display: inline-block; padding: 4px 8px; border-radius: 4px;">MySQL</p>
-
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" width="30">
-<p style="background-color: #47A248; display: inline-block; padding: 4px 8px; border-radius: 4px;">MongoDB</p>
-
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/redis_logo_icon_170911.png" width="30">
-<p style="background-color: #DC382D; display: inline-block; padding: 4px 8px; border-radius: 4px;">Redis</p>
+<a href="https://golang.org/">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&amp;&logoColor=white&amp;labelColor=101010" alt="GO">
+</a>
 
 </br>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="30">
-<p style="background-color: #F05032; display: inline-block; padding: 4px 8px; border-radius: 4px;">Git</p>
+<a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=101010" alt="MySQL" >
+</a>
+
+<a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=101010" alt="MongoDB" >
+</a>
+
+<a href="https://redis.io/">
+    <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&amp;logo=redis&logoColor=white&amp;labelColor=101010" alt="REDIS" >
+</a>
+
+</br>
+<a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&amp;labelColor=orange" alt="GIT">
+</a>
 
 ## ¿Cómo encontrarme?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/erik-sostenes-simon)
+<a href="https://www.linkedin.com/in/erik-sostenes-simon/" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-Erik_Sostenes-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101010" alt="Linkedin">
+</a>
 
-[Sobre mí](https://erik-sostenes.github.io)
+<a href="https://erik-sostenes.github.io" rel="nofollow">
+    <img src="https://img.shields.io/badge/Link_Site-erik.io-39E09B?style=for-the-badge&amp;logo=Linktree&amp;logoColor=white&amp;labelColor=101010" alt="PROFILE ERIK">
+</a>
