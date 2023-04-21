@@ -9,7 +9,7 @@
  Me gusta aplicar patrones de diseños y de concurrencia, siguiendo Domain Driven Design (DDD)
  para el diseño de mi software junto con Test-Driven Development (TDD) para la confiabilidad de mi
  producto, todo esto para una mejor calidad y escalabilidad de mi sistemas.
- También he trabajado con tecnologías para la comunicación en tiempo real como Server-Send Events,
+ También he trabajado con tecnologías para la comunicación en tiempo real como Server-Sent Events,
  Websockets y Redis Streams.
  Conocimientos en el uso de gestores de base de datos relacionales (MySQL) y no relacionales
  (Redis y MongoDB).**
