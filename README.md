@@ -58,3 +58,5 @@
 <a href="https://erik-sostenes.github.io" rel="nofollow">
     <img src="https://img.shields.io/badge/Link_Site-erik.io-39E09B?style=for-the-badge&amp;logo=Linktree&amp;logoColor=white&amp;labelColor=101010" alt="PROFILE ERIK">
 </a>
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-ErikSostenes-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101010)](https://leetcode.com/eriksostenessimon/)
