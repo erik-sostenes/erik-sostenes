@@ -1,18 +1,15 @@
 ### Hola 👋, Soy Erik
 
 
-**Hola, soy un desarrollador de software enfocado en el desarrollo del lado del servidor,
- me gusta estar en constante aprendizaje y tomando nuevos retos. Tengo experiencia en la
- construcción de APIs Rest los cuales han proporcionado recursos ha diferentes sistemas de clientes, 
- a su vez he construido CLIs para la automatización de procesos y he trabajado con
- Server Side Rendering para renderizar html desde el servidor.
- Me gusta aplicar patrones de diseños y de concurrencia, siguiendo Domain Driven Design (DDD)
- para el diseño de mi software junto con Test-Driven Development (TDD) para la confiabilidad de mi
- producto, todo esto para una mejor calidad y escalabilidad de mi sistemas.
- También he trabajado con tecnologías para la comunicación en tiempo real como Server-Sent Events,
- Websockets y Redis Streams.
- Conocimientos en el uso de gestores de base de datos relacionales (MySQL) y no relacionales
- (Redis y MongoDB).**
+**Hola, soy desarrollador de software con experiencia en la creación de sistemas usando Go.**
+
+**Tengo experiencia en la construcción de sistemas que incluyen APIs REST,  herramientas de línea de comandos (CLIs) y el uso de tecnologías como  WebSockets, Server-Sent Events (SSE), NATS y Redis Streams.**
+
+**Para  la persistencia de datos, he tenido la oportunidad de trabajar con bases de datos relacionales (PostgreSQL) y no relacionales (MongoDB, Redis y  DynamoDB).**
+
+**Aplico metodologías como TDD (Test-Driven Development) para pruebas unitarias, de integración, aceptación y benchmarks,  apoyándome en herramientas como Playwright para pruebas end-to-end y K6 para pruebas de rendimiento.**
+
+**He trabajado implementando concurrencia y aplicando patrones de concurrencia para optimizar el rendimiento de los sistemas.  Y finalmente, he creado sistemas utilizando el protocolo de autorización OAuth 2.0 y el estándar JWT.**
  
 ## Habilidades Blandas
 <ul>
