@@ -1,59 +1,102 @@
-### Hola 👋, Soy Erik
+### Hi there 👋, I'm Erik
 
+**Backend Software Engineer | Go (Golang) · Fintech · Distributed Systems · Platform Engineering**
 
-**Hola, soy desarrollador de software con experiencia en la creación de sistemas usando Go.**
+Software engineer specialized in **Go (Golang)**, with experience in **fintech**, **distributed systems**, and a strong focus on **Platform Engineering**.
 
-**Tengo experiencia en la construcción de sistemas que incluyen APIs REST,  herramientas de línea de comandos (CLIs) y el uso de tecnologías como  WebSockets, Server-Sent Events (SSE), NATS y Redis Streams.**
+I currently technically lead backend development for **Rubivault** at **Rubidex**, while actively contributing to infrastructure decisions alongside the platform team. Previously, I worked at **Cicada**, an electronic trading platform for bond markets in LatAm.
 
-**Para  la persistencia de datos, he tenido la oportunidad de trabajar con bases de datos relacionales (PostgreSQL) y no relacionales (MongoDB, Redis y  DynamoDB).**
+**What I focus on:**
+- Designing scalable distributed systems
+- Applying strong engineering practices
+- Continuous performance optimization
 
-**Aplico metodologías como TDD (Test-Driven Development) para pruebas unitarias, de integración, aceptación y benchmarks,  apoyándome en herramientas como Playwright para pruebas end-to-end y K6 para pruebas de rendimiento.**
+I complement my experience with personal projects and freelance work, always with a focus on building products that solve real problems.
 
-**He trabajado implementando concurrencia y aplicando patrones de concurrencia para optimizar el rendimiento de los sistemas.  Y finalmente, he creado sistemas utilizando el protocolo de autorización OAuth 2.0 y el estándar JWT.**
- 
-## Habilidades Blandas
-<ul>
-  <li>Creativo e innovador</li>
-  <li>Iniciativo</li>
-  <li>Perseverante</li>
-  <li>Resolución de problemas</li>
-  <li>Trabajo en equipo</li>
-</ul>
+---
 
-## Tecnologías:
-<a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&amp;logo=java&amp;logoColor=white&amp;labelColor=101010" alt="JAVA" >
-</a>
+## 🛠️ Tech Stack
+
+**Languages**
 
 <a href="https://golang.org/">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&amp;&logoColor=white&amp;labelColor=101010" alt="GO">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010" alt="GO">
+</a>
+<a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="JAVA">
 </a>
 
-</br>
+**Databases**
+
+<a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010" alt="PostgreSQL">
+</a>
 <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=101010" alt="MySQL" >
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" alt="MySQL">
 </a>
-
 <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=101010" alt="MongoDB" >
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010" alt="MongoDB">
 </a>
-
 <a href="https://redis.io/">
-    <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&amp;logo=redis&logoColor=white&amp;labelColor=101010" alt="REDIS" >
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010" alt="REDIS">
 </a>
 
-</br>
+**Messaging & Real-Time**
+
+<a href="https://nats.io/">
+    <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats&logoColor=white&labelColor=101010" alt="NATS">
+</a>
+<a href="https://redis.io/">
+    <img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010" alt="Redis Streams">
+</a>
+
+**Testing & Performance**
+
+<a href="https://playwright.dev/">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=101010" alt="Playwright">
+</a>
+<a href="https://k6.io/">
+    <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white&labelColor=101010" alt="K6">
+</a>
+
+**Tools**
+
 <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&amp;labelColor=orange" alt="GIT">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" alt="GIT">
 </a>
 
-## ¿Cómo encontrarme?
+---
+
+## 🧠 Areas of Expertise
+
+- REST APIs, CLIs, and real-time systems (WebSockets, SSE)
+- Concurrency in Go: implementation and patterns for performance optimization
+- Persistence: PostgreSQL, MongoDB, Redis, and DynamoDB
+- Testing: TDD (unit, integration, acceptance, benchmarks), E2E with Playwright, and performance with K6
+- Security: OAuth 2.0 and JWT
+
+---
+
+## 💡 Soft Skills
+
+<ul>
+  <li>Creative and innovative</li>
+  <li>Self-driven</li>
+  <li>Perseverant</li>
+  <li>Problem-solving</li>
+  <li>Teamwork</li>
+</ul>
+
+---
+
+## 📫 How to Reach Me
+
 <a href="https://www.linkedin.com/in/erik-sostenes-simon/" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-Erik_Sostenes-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101010" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Erik_Sostenes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="Linkedin">
 </a>
-
 <a href="https://erik-sostenes.github.io" rel="nofollow">
-    <img src="https://img.shields.io/badge/Link_Site-erik.io-39E09B?style=for-the-badge&amp;logo=Linktree&amp;logoColor=white&amp;labelColor=101010" alt="PROFILE ERIK">
+    <img src="https://img.shields.io/badge/Website-erik.io-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010" alt="Website">
 </a>
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-ErikSostenes-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101010)](https://leetcode.com/eriksostenessimon/)
+<a href="https://leetcode.com/eriksostenessimon/">
+    <img src="https://img.shields.io/badge/LeetCode-ErikSostenes-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101010" alt="LeetCode">
+</a>
