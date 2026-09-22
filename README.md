@@ -53,6 +53,15 @@ I complement my experience with personal projects and freelance work, always wit
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010" alt="REDIS">
 </a>
 
+**DevOps & Cloud**
+
+<a href="https://kubernetes.io/">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010" alt="Kubernetes">
+</a>
+<a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010" alt="Docker">
+</a>
+
 **Messaging & Real-Time**
 
 <a href="https://nats.io/">
